@@ -1,6 +1,6 @@
 {
   "name": "three-demo",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -13,10 +13,4 @@
     "three": "^0.128.0"
   },
   "type": "module"
-}
-
-{
-  "engines": {
-    "node": "16.x"
-  }
 }
